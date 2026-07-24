@@ -1,0 +1,1 @@
+DROP POLICY IF EXISTS "site_data writable by authenticated" ON public.site_data;
